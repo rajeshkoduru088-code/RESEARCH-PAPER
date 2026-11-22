@@ -1,0 +1,6 @@
+{
+  "name": "FolioQA — Research Paper Q&A",
+  "description": "Upload a research paper PDF and ask grounded questions answered strictly from the paper with page citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
